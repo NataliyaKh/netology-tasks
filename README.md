@@ -76,8 +76,6 @@
 
 [Гриф коммитов](https://github.com/NataliyaKh/L8-01/network)
 
-![Гриф коммитов - скрин](https://drive.google.com/file/d/1F6uDFXX59bnz6yUGRfzn-JBf1ctHA4wf/view?usp=sharing)`
-
 ### Задание 4
 
 Сэмулируем конфликт. Перед выполнением изучите документацию.
