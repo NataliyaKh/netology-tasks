@@ -59,8 +59,11 @@
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
 
 ![WARN1](https://data0.gallery.ru/albums/gallery/435409-bf776-132613696--u393a2.jpg)`
+
 ![WARN2](https://data0.gallery.ru/albums/gallery/435409-a6f36-132613697--ub9f14.jpg)`
+
 ![ALARM1](https://data0.gallery.ru/albums/gallery/435409-60466-132613694--u2a547.jpg)`
+
 ![ALARM2](https://data0.gallery.ru/albums/gallery/435409-3481b-132613695--ua15b4.jpg)`
 
 ![Yandex Cloud Services](https://data0.gallery.ru/albums/gallery/435409-2d2e2-132613699-m750x740-ubd0a3.jpg)`
