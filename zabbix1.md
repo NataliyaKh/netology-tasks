@@ -83,6 +83,7 @@ systemctl enable zabbix-server apache2
 
 ![Latest data](https://data0.gallery.ru/albums/gallery/435409-3ecbd-132646290-m750x740-u2822d.jpg)`
 
+
 ```
 sudo -s
 wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_7.0-2+ubuntu22.04_all.deb
