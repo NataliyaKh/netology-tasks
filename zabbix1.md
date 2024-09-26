@@ -108,8 +108,11 @@ tail /var/log/zabbix/zabbix_agentd.log
 
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 
+
 ![Windows](https://data0.gallery.ru/albums/gallery/435409-62848-132646847--u3a495.jpg)`
 
+
 ![Windows - Latest Data - Storage](https://data0.gallery.ru/albums/gallery/435409-400e8-132646848--u62a1b.jpg)`
+
 
 
