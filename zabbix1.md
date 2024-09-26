@@ -77,18 +77,24 @@ systemctl enable zabbix-server apache2
 3.    Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4.    Приложите в файл README.md текст использованных команд в GitHub
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![Hosts](https://data0.gallery.ru/albums/gallery/435409-167a1-132646288--ub06d9.jpg)`
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![zabbix_agentd.log](https://data0.gallery.ru/albums/gallery/435409-bef49-132646291-m750x740-uef994.jpg)`
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![Latest data](https://data0.gallery.ru/albums/gallery/435409-3ecbd-132646290-m750x740-u2822d.jpg)`
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+sudo -s
+wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_7.0-2+ubuntu22.04_all.deb
+dpkg -i zabbix-release_7.0-2+ubuntu22.04_all.deb
+apt update
+apt install zabbix-agent
+systemctl restart zabbix-agent
+systemctl enable zabbix-agent
+nano /etc/zabbix/zabbix-agentd.conf
+#добавление нужного сервера в файл конфигураций (Server=127.0.0.1,192.168.2.0/24), Ctrl+O. На машине, где не был установлен сервер, перед сохранением потребовалось также раскомментировать LogType=file. 
+systemctl restart zabbix-agent
+tail /var/log/zabbix/zabbix_agentd.log
 ```
 
 ---
