@@ -38,6 +38,7 @@
 
 ![Авторизация состоялась](https://data0.gallery.ru/albums/gallery/435409-e3a4a-132644086--u4fcf3.jpg)`
 
+
 ```
 sudo -s 
 wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_7.0-2+ubuntu22.04_all.deb 
