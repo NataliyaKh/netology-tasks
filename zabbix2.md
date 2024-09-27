@@ -36,6 +36,7 @@
 ![Задание 1](https://data0.gallery.ru/albums/gallery/435409-68389-132659585--u919d7.jpg)`
 
 
+
 ---
 
 ### Задание 2
@@ -75,7 +76,9 @@
 
 ![Задание 2-3. Hosts](https://data0.gallery.ru/albums/gallery/435409-68389-132659585--u919d7.jpg)`
 
+
 ![Задание 2-3. Latest Data](https://data0.gallery.ru/albums/gallery/435409-2f2c0-132660641--ufe957.jpg)`
+
 
 
 ---
