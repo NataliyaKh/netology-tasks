@@ -32,7 +32,7 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-![Раннер](https://data0.gallery.ru/albums/gallery/435409-adbb7-132523761-m750x740-u3a152.jpg)
+![Раннер](https://data0.chch.ru/albums/gallery/435409-adbb7-132523761-m750x740-u3a152.jpg)
 
 ---
 
@@ -68,9 +68,9 @@ build:
    - docker build .
 ```
 
-![Сборка](https://data0.gallery.ru/albums/gallery/435409-7861d-132523798-m750x740-u92724.jpg)
+![Сборка](https://data0.chch.ru/albums/gallery/435409-7861d-132523798-m750x740-u92724.jpg)
 
-![Джобы](https://data0.gallery.ru/albums/gallery/435409-6dfe1-132523951-m750x740-ua9905.jpg)
+![Джобы](https://data0.chch.ru/albums/gallery/435409-6dfe1-132523951-m750x740-ua9905.jpg)
 
 ---
 
